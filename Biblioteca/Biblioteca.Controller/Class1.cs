@@ -8,5 +8,7 @@ namespace Biblioteca.Controller
 {
     public class Class1
     {
+
+        public string testando { get; set; }
     }
 }
