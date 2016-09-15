@@ -10,5 +10,6 @@ namespace Biblioteca.Controller
     {
 
         public string testando { get; set; }
+        public string nome { get; set; }
     }
 }
